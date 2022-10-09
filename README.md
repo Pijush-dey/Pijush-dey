@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pijush-dey
-- 🎓 I'm pursuing Computer 
+- 🎓 I'm currently a student pursuing B.Tech in Computer Science And Engineering.
 - 🌱 I’m currently learning Django for backend development...
 - ⚡ Solving DSA questions...
 - 📫Contact me... pijushdey346@gmail.com 
