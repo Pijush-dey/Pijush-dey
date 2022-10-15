@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pijush-dey&label=Profile%20views&color=0e75b6&style=flat" alt="pijush-dey" /> </p>
 
+- 🎓 I'm a student pursuing **B.Tech in Computer Science And Engineering.**
+
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently **learning Django for backend development**
-
-- 🎓 I'm a student pursuing **B.Tech in Computer Science And Engineering.**
+- 🌱 Practicing and learning **Django for backend development**
 
 - 📫 How to reach me **pijushdey616@gmail.com**
 
