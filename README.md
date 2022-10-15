@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pijush Dey</h1>
 <h3 align="center">I am a passionate Web Developer</h3>
 
-<img  align="right" alt="Coding" width="390" hight="350" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
+<img  align="right" alt="Coding" width="400" hight="390" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pijush-dey&label=Profile%20views&color=0e75b6&style=flat" alt="pijush-dey" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🎓 I'm a student pursuing **B.Tech in Computer Science And Engineering.**
 
-- 📫 How to reach me **pijushdey346@gmail.com**
+- 📫 How to reach me **pijushdey616@gmail.com**
 
 - ⚡ **Solving DSA problems side by side...**
 
