@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 Practicing and learning **Django for backend development**
+- 🌱 Practicing and learning **Django framework for backend development**
 
 - 📫 How to reach me **pijushdey616@gmail.com**
 
