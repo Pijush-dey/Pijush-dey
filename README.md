@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pijush-dey&show_icons=true&locale=en&layout=compact&langs_count=16" alt="pijush-dey" />
 
-&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=pijush-dey&show_icons=true&locale=en" alt="pijush-dey" /></p>
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pijush-dey&show_icons=true&locale=en" alt="pijush-dey" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pijush-dey&bg_color=f7f3f3&color=000000&line=7db083&point=32953d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
