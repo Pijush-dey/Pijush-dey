@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, Pijush here !!</h1>
+<h1 align="center">Hello👋, Pijush here !!</h1>
 <h3 align="center">I am a passionate Web Developer</h3>
 
 <img  align="right" alt="Coding" width="400" hight="380" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
