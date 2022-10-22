@@ -7,11 +7,11 @@
 
 - 🎓 I'm a student pursuing **B.Tech in Computer Science And Engineering.**
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **personal projects.**
 
-- 🌱 Practicing and learning **Django framework for backend development**
+- 🌱 Practicing and learning **Django framework for backend development.**
 
-- 📫 How to reach me **pijushdey616@gmail.com**
+- 📫 How to reach me **pijushdey616@gmail.com.**
 
 - ⚡ **Solving DSA problems side by side...**
 
